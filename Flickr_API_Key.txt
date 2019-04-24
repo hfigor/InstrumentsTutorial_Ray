@@ -1,1 +1,14 @@
 Flickr test API key for this project: 6593783efea8e7f6dfc6b70bc03d2afb
+
+From Flickr account: 20190424
+
+Instruments Tutorial
+Key:
+1b98a911e3e581e9e66946d82a0e1e39
+
+Secret:
+0ff8ab972697727f
+
+
+
+
